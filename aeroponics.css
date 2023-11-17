@@ -1,0 +1,22 @@
+
+  iframe {
+    width: 100%;
+    height: 300px;
+  }
+ 
+footer{
+    text-align: center;
+    background-color: lightblue;
+}
+  ul{
+    list-style-type: none;
+  }
+  #cardContainer{
+    display: block;
+    margin: auto;
+  }
+  
+  .card-header {
+    text-align: center;
+  }
+
